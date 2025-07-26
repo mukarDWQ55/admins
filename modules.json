@@ -1,5 +1,8 @@
 {
     "teleport_god": {
         "url": "https://raw.githubusercontent.com/mukarDWQ55/admins/refs/heads/main/example_module.luau"
+    },
+    "troll": {
+        "url": "https://raw.githubusercontent.com/mukarDWQ55/admins/refs/heads/main/troll_module.luau"
     }
 }
